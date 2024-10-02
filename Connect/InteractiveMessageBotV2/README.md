@@ -1,0 +1,1 @@
+Amazon Lex V2 bot for Amazon Connect chat and Interactive List picker options.
